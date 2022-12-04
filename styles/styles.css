@@ -132,7 +132,7 @@ body{
 
 .right-container{
   width:15rem ;
-  height: 45vh;
+  height: 40vh;
   display: flex;
   flex-direction: column;
   align-items: center;
