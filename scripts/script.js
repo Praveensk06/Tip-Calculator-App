@@ -18,6 +18,7 @@ let peoples , tipPercent , bill
 // initial  set up
 
 function init(){
+  
 bill = 0 ;
 peoples = 0;
 tipPercent = 0; 

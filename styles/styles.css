@@ -142,7 +142,7 @@ body{
   margin: auto;
   gap: 1rem;
 
-}
+}                         
 .tip-amount,.total-amount{
   display: flex;
   align-items: center;
